@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tksarpong
+- 👋 Hi, I’m Kwaku Twumasi Sarpong
 - 👀 I’m interested in full stack development, Data analysis and cybersecurity
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development
